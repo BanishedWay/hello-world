@@ -1,2 +1,2 @@
 # hello-world
-学习github
+I write this file just to learn how to use branch and readme file.
